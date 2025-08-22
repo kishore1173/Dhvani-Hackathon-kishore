@@ -50,6 +50,9 @@ Bounding box area, width, height scatter plots
 
 Helps understand dataset balance
 
+<img width="684" height="451" alt="download" src="https://github.com/user-attachments/assets/38b6efc2-98d3-42f4-9573-d0f20b637f26" />
+
+
 ## Step 3: Model Training (YOLOv5l)
 
 Pretrained weights (yolov5l.pt)
@@ -107,6 +110,9 @@ Bus	0.874	0.726	0.826	0.603
 Truck	0.830	0.677	0.792	0.577
 Motorbike	0.891	0.640	0.742	0.366
 All	0.866	0.668	0.789	0.529
+
+<img width="662" height="278" alt="vc result" src="https://github.com/user-attachments/assets/1e9ebdf6-3874-40ec-b413-418d85857471" />
+
 
 ## Best Model Weights:
 
