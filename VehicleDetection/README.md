@@ -143,6 +143,9 @@ Evaluate results using evaluate.py
 
 Predicted bounding boxes on test images:
 
+![Pias (548) (2)](https://github.com/user-attachments/assets/cee3c63d-18cf-4750-8737-2773c5e5a100)
+
+
 ## Discussion
 
 The model performs best on Bus & Car detection due to higher sample counts
